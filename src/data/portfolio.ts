@@ -117,6 +117,13 @@ export const portfolioData: PortfolioData = {
       date: "June 2025",
       credentialUrl: "https://www.linkedin.com/posts/madhav-bhalodiya-434b85353_webdevelopment-mernstack-internshipexperience-activity-7351279706295451649-Ik-l?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFhF4CgB_eiQQADc2m2kBYhtIRCotiSDSy0",
       issuer: "Brainybeam Info-Tech Pvt. Ltd."
+    },
+    {
+       id: "2",
+      name: "Code Unnati Innovation Marathon",
+      date: "March 2025",
+      credentialUrl: "https://www.linkedin.com/posts/madhav-bhalodiya-434b85353_codeunnati-edunetfoundation-innovationmarathon-activity-7312508579280822273-233P?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFhF4CgB_eiQQADc2m2kBYhtIRCotiSDSy0",
+      issuer: "SAP"
     }
     
   ],
