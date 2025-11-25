@@ -62,9 +62,9 @@ export const portfolioData: PortfolioData = {
     
   },
   aboutMe: [
-    "I am a Computer Engineering student at MBIT, Anand, with a strong passion for coding and web development.",
-    "I have practical experience working with React, HTML, CSS, JavaScript , node.js , express.js , mongoDB, Java and Data Structures & Algorithms.",
-    "Driven by curiosity and a desire to grow, I’m eager to take on meaningful projects that allow me to sharpen my technical expertise and problem-solving abilities while making a positive impact."
+    "My name is Madhav Bhalodiya, a B.Tech Computer Engineering student at MBIT with a minor degree in Robotics. I believe in learning by doing, and one of my key achievements is being selected for the SAP Code Unnati Marathon, where my team developed an AI-based Mock Interview Taker",
+    "I have hands-on experience in the MERN stack, along with strong skills in JavaScript, Java, SQL, and OOPs. During my internship, I worked on authentication, role-based access control, and dynamic dashboards, strengthening my full-stack development abilities.",
+    "Along with technical skills, I actively build my leadership and communication skills as the Training and Placement Coordinator and through previous roles in IEEE and ISTE."
   ],
   skills: {
     Frontend: ["HTML", "CSS", "JavaScript", "React"],
